@@ -3,7 +3,7 @@
 - 💾 Currently, I am working on refining my Spring Boot web based API design. 
 - 🌱 I am improving my skills and filling knowledge gaps for material presented during my bootcamp.
 - 🦠 My background lies in microbiology and ecological biology.
-- 📫 [Stephback LinkedIn] (https://www.linkedin.com/in/stephaniejback/)
+- 📫 Reach me via LinkedIn: (https://www.linkedin.com/in/stephaniejback/)
 - 🥧 👾 🌳 ⛰️ I bake desserts, play Tetris, and explore the great outdoors in my pastime. 
 - 🕵️ Prounouns: She|Her|Hers
 
