@@ -1,6 +1,6 @@
 # Hello! 🌄
 - 🦕 I am @stephback.
-- 💾 Currently, I am working on refining my Spring Boot web based API design. 
+- 💾 Currently, I am refining my Spring Boot web based API design: WooPies. 
 - 🌱 I am improving my skills and filling knowledge gaps for material presented during my bootcamp.
 - 🦠 My background lies in microbiology and ecological biology.
 - 📫 Reach me via LinkedIn: (https://www.linkedin.com/in/stephaniejback/)
