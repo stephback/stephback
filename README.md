@@ -1,7 +1,8 @@
 # Hello! 🌄
 - 🦕 I am @stephback.
-- 💾 Currently, I am refining my Spring Boot web based API design: WooPies. 
-- 🌱 I am improving my skills and filling knowledge gaps for material presented during my bootcamp.
+- 💾 Currently, I am preparing to learn front end development. 
+- 🧠 I mentor back end development students as they learn and grow as developers.
+- 🌱 I am improving my skills and filling knowledge gaps for front end and back end development. 
 - 🦠 My background lies in microbiology and ecological biology.
 - 📫 Reach me via LinkedIn: (https://www.linkedin.com/in/stephaniejback/)
 - 🥧 👾 🌳 ⛰️ I bake desserts, play Tetris, and explore the great outdoors in my pastime. 
