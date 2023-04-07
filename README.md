@@ -1,6 +1,6 @@
 # Hello! 🌄
 - 🦕 I am @stephback.
-- 💾 Currently, I am preparing to learn front end development. 
+- 💾 Currently, I am learning front end development. 
 - 🧠 I mentor back end development students as they learn and grow as developers.
 - 🌱 I am improving my skills and filling knowledge gaps for front end and back end development. 
 - 🦠 My background lies in microbiology and ecological biology.
